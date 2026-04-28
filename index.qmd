@@ -7,7 +7,6 @@ authors:
     corresponding: true
 bibliography: references.bib
 ---
-
 # The Physiology of Muscle Contraction: Mechanisms and Regulation
 
 ## Introduction
