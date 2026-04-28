@@ -7,79 +7,69 @@ authors:
     corresponding: true
 bibliography: references.bib
 ---
-
-# The Physiology of Muscle Contraction: Mechanisms and Regulation
+# The Physiology of Muscle Contraction: Cellular Mechanisms and Regulation
 
 ## Introduction
 
-Muscle contraction is a fundamental physiological process that enables movement, posture, and vital bodily functions such as circulation and respiration. In humans, muscle contraction depends on the coordinated interaction of nervous system signaling, cellular structures, and molecular mechanisms within muscle fibers. Understanding how muscles contract requires knowledge of anatomy, cellular physiology, and biochemistry. This article examines the mechanisms of muscle contraction with a focus on skeletal muscle, including excitation–contraction coupling, the sliding filament theory, and factors that regulate force production and fatigue.
+Muscle contraction is a fundamental physiological process that enables movement, posture maintenance, and essential functions such as respiration and circulation. In humans, contraction results from coordinated interactions between the nervous system, muscle fiber anatomy, and molecular signaling pathways. At the cellular level, muscle contraction converts chemical energy into mechanical force through tightly regulated calcium signaling and protein interactions. This article examines the physiology of skeletal muscle contraction, focusing on muscle structure, excitation–contraction coupling, the sliding filament mechanism, and factors regulating force and fatigue.
 
-------------------------------------------------------------------------
+---
 
 ## Types of Muscle Tissue
 
-The human body contains three main types of muscle tissue: skeletal, cardiac, and smooth muscle. Skeletal muscle is responsible for voluntary movements and is characterized by striations and multinucleated fibers. Cardiac muscle, found exclusively in the heart, also exhibits striations but functions involuntarily and has specialized junctions called intercalated discs. Smooth muscle lacks striations and controls involuntary movements within organs such as the intestines and blood vessels. While all muscle types contract via actin–myosin interactions, skeletal muscle contraction is the most extensively studied and will be the primary focus of this article (OpenStax, 2023).
+Three types of muscle tissue exist in the human body: skeletal, cardiac, and smooth muscle. Skeletal muscle is responsible for voluntary movement and is composed of long, striated, multinucleated fibers. Cardiac muscle forms the heart and contracts involuntarily with intrinsic rhythmicity, while smooth muscle lines hollow organs and blood vessels and lacks striations. Despite structural differences, all muscle types utilize actin–myosin interactions and calcium‑dependent signaling to generate force (Sweeney & Hammers, 2018).
 
-------------------------------------------------------------------------
+---
 
-## Microscopic Anatomy of Skeletal Muscle
+## Microscopic Structure of Skeletal Muscle
 
-Skeletal muscle fibers are composed of myofibrils, which are further divided into repeating units called sarcomeres—the functional units of muscle contraction. Each sarcomere consists of thick filaments composed primarily of myosin and thin filaments composed of actin, along with regulatory proteins troponin and tropomyosin. The precise arrangement of these filaments produces the characteristic striated appearance of skeletal muscle and allows for efficient force generation (Lieber, 2010).
+Skeletal muscle fibers contain myofibrils organized into repeating functional units known as sarcomeres. Each sarcomere consists of overlapping thick filaments composed of myosin and thin filaments composed of actin, along with the regulatory proteins troponin and tropomyosin. This precise structural arrangement allows force generation through controlled filament sliding during contraction. The sarcoplasmic reticulum surrounds the myofibrils and serves as a calcium reservoir critical for contractile activation (Squire, 2016).
 
-------------------------------------------------------------------------
+---
 
 ## Excitation–Contraction Coupling
 
-Excitation–contraction coupling refers to the series of events that link an electrical signal from a motor neuron to muscle fiber contraction. This process begins at the neuromuscular junction, where the neurotransmitter acetylcholine (ACh) is released and binds to receptors on the muscle fiber’s sarcolemma. This binding generates an action potential that travels along the sarcolemma and down the transverse (T) tubules.
+Excitation–contraction coupling is the process that links electrical excitation of the muscle fiber to mechanical contraction. The process is initiated when an action potential travels along the sarcolemma and into the transverse (T) tubule system. Voltage‑sensitive dihydropyridine receptors interact mechanically with ryanodine receptors in the sarcoplasmic reticulum, triggering the release of calcium ions into the cytoplasm.
 
-The action potential triggers the release of calcium ions (Ca²⁺) from the sarcoplasmic reticulum into the cytosol. Calcium binds to the protein troponin, causing tropomyosin to shift and expose myosin‑binding sites on actin filaments. This calcium‑dependent mechanism is essential for initiating contraction (Hall & Guyton, 2021).
+Released calcium binds to troponin C, causing tropomyosin to shift away from actin’s myosin‑binding sites and allowing cross‑bridge formation. This calcium‑mediated signaling cascade is essential for muscle contraction and is highly conserved across striated muscle types (Bolaños & Calderón, 2022).
 
-------------------------------------------------------------------------
+---
 
-## The Sliding Filament Theory
+## Sliding Filament Mechanism
 
-The sliding filament theory explains how muscle fibers shorten during contraction. According to this model, myosin heads attach to exposed binding sites on actin to form cross‑bridges. Using energy from adenosine triphosphate (ATP), the myosin heads pivot, pulling the actin filaments toward the center of the sarcomere in a power stroke. ATP binding then causes the myosin heads to detach, allowing the cycle to repeat as long as calcium and ATP are available.
+The sliding filament theory explains how muscles shorten during contraction without changes in filament length. Myosin heads attach to actin to form cross‑bridges and, using energy derived from ATP hydrolysis, perform a power stroke that pulls actin filaments toward the center of the sarcomere. ATP binding causes detachment of myosin heads, allowing the cycle to repeat as long as calcium and ATP are present.
 
-As sarcomeres shorten, the muscle fiber contracts without the filaments themselves changing length. This model, originally proposed by Huxley and Hanson, remains the foundational explanation for muscle contraction (Huxley, 1957).
+As contraction progresses, the I‑band and H‑zone shorten while the A‑band remains constant, demonstrating filament sliding rather than compression. This model is a fundamental principle of muscle physiology and applies to all striated muscle types (Squire, 2016).
 
-------------------------------------------------------------------------
+---
 
-## Regulation of Muscle Contraction
+## Regulation of Muscle Force
 
-Muscle force is regulated through motor unit recruitment and the frequency of neural stimulation. A motor unit consists of a motor neuron and all the muscle fibers it innervates. Increasing force production involves recruiting additional motor units and increasing the firing rate of action potentials, a process known as temporal summation.
+Muscle force production is regulated primarily through motor unit recruitment and firing frequency. A motor unit consists of a motor neuron and the muscle fibers it innervates. Increasing the number of active motor units and increasing stimulation frequency result in greater force generation. 
 
-Muscle contraction is also influenced by muscle length, known as the length–tension relationship. Optimal overlap between actin and myosin filaments allows maximal force generation, whereas excessive stretching or shortening reduces contractile efficiency (Lieber & Fridén, 2019).
+Force is also influenced by the length–tension relationship, which describes how sarcomere length affects actin–myosin overlap. Maximum force is produced when overlap is optimal, whereas excessive stretching or shortening reduces contractile efficiency (Sweeney & Hammers, 2018).
 
-------------------------------------------------------------------------
+---
 
 ## Muscle Fatigue
 
-Muscle fatigue is the decline in the ability of a muscle to generate force during sustained activity. It can result from multiple factors, including ATP depletion, accumulation of metabolic byproducts such as lactic acid, and impaired calcium release from the sarcoplasmic reticulum. Fatigue serves as a protective mechanism to prevent muscle damage and maintain homeostasis within muscle tissue (Allen et al., 2008).
+Muscle fatigue refers to a decline in force‑producing capacity during sustained or repetitive activity. Fatigue can arise from metabolic factors such as ATP depletion, accumulation of inorganic phosphate, and impaired calcium release from the sarcoplasmic reticulum. These changes reduce cross‑bridge cycling efficiency and serve as protective mechanisms to prevent muscle damage (Bolaños & Calderón, 2022).
 
-------------------------------------------------------------------------
+---
 
 ## Conclusion
 
-Muscle contraction is a complex, tightly regulated process that integrates anatomical structures, neural signaling, and molecular interactions. Through excitation–contraction coupling and the sliding filament mechanism, skeletal muscles convert chemical energy into mechanical force. Understanding these processes provides essential insight into normal movement, exercise physiology, and clinical conditions such as muscle weakness and neuromuscular disorders. Continued research into muscle physiology remains critical for advancing treatments and improving human health.
+Muscle contraction is a complex physiological process dependent on precise structural organization, electrical signaling, calcium regulation, and molecular interactions. Through excitation–contraction coupling and the sliding filament mechanism, skeletal muscle fibers efficiently convert chemical energy into mechanical work. Understanding these mechanisms provides important insights into normal movement, exercise performance, and neuromuscular disease, highlighting the importance of continued research in muscle physiology.
 
-------------------------------------------------------------------------
+---
 
 ## References
 
-Allen, D. G., Lamb, G. D., & Westerblad, H. (2008). Skeletal muscle fatigue: Cellular mechanisms. *Physiological Reviews*, 88(1), 287–332.\
-https://doi.org/10.1152/physrev.00015.2007
+Bolaños, P., & Calderón, J. C. (2022). Excitation–contraction coupling in mammalian skeletal muscle: Blending old and last‑decade research. *Frontiers in Physiology, 13*, 989796.  
+https://doi.org/10.3389/fphys.2022.989796
 
-Hall, J. E., & Guyton, A. C. (2021). *Guyton and Hall Textbook of Medical Physiology* (14th ed.). Elsevier.\
-https://www.elsevier.com/books/guyton-and-hall-textbook-of-medical-physiology/9780323597128
+Squire, J. M. (2016). Muscle contraction: Sliding filament history, sarcomere dynamics and the two Huxleys. *Global Cardiology Science and Practice, 2016*(2), e201611.  
+https://doi.org/10.21542/gcsp.2016.11
 
-Huxley, A. F. (1957). Muscle structure and theories of contraction. *Progress in Biophysics and Biophysical Chemistry*, 7, 255–318.\
-https://doi.org/10.1016/S0096-4174(18)30128-8
-
-Lieber, R. L. (2010). *Skeletal Muscle Structure, Function, and Plasticity* (3rd ed.). Wolters Kluwer.\
-https://shop.lww.com/Skeletal-Muscle-Structure--Function--and-Plasticity/p/9780781780578
-
-Lieber, R. L., & Fridén, J. (2019). Functional and clinical significance of skeletal muscle architecture. *Muscle & Nerve*, 59(3), 318–336.\
-https://doi.org/10.1002/mus.26472
-
-OpenStax. (2023). *Anatomy and Physiology 2e*. OpenStax, Rice University.\
-https://openstax.org/details/books/anatomy-and-physiology-2e
+Sweeney, H. L., & Hammers, D. W. (2018). Muscle contraction. *Cold Spring Harbor Perspectives in Biology, 10*(2), a023200.  
+https://doi.org/10.1101/cshperspect.a023200
