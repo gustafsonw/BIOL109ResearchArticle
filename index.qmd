@@ -1,12 +1,86 @@
 ---
-title: art
+title: BIOL 109 Anatomy & Physiology Research Article
 authors:
-  - name: Norah Jones
-    affiliation: The University
+  - name: Will Gustafson
+    affiliation: Community College of Baltimore County
     roles: writing
     corresponding: true
 bibliography: references.bib
 ---
 
-## Section
-This is a simple placeholder for the manuscript's main document [@knuth84].
+# The Physiology of Muscle Contraction: Mechanisms and Regulation
+
+## Introduction
+
+Muscle contraction is a fundamental physiological process that enables movement, posture, and vital bodily functions such as circulation and respiration. In humans, muscle contraction depends on the coordinated interaction of nervous system signaling, cellular structures, and molecular mechanisms within muscle fibers. Understanding how muscles contract requires knowledge of anatomy, cellular physiology, and biochemistry. This article examines the mechanisms of muscle contraction with a focus on skeletal muscle, including excitation–contraction coupling, the sliding filament theory, and factors that regulate force production and fatigue.
+
+---
+
+## Types of Muscle Tissue
+
+The human body contains three main types of muscle tissue: skeletal, cardiac, and smooth muscle. Skeletal muscle is responsible for voluntary movements and is characterized by striations and multinucleated fibers. Cardiac muscle, found exclusively in the heart, also exhibits striations but functions involuntarily and has specialized junctions called intercalated discs. Smooth muscle lacks striations and controls involuntary movements within organs such as the intestines and blood vessels. While all muscle types contract via actin–myosin interactions, skeletal muscle contraction is the most extensively studied and will be the primary focus of this article (OpenStax, 2023).
+
+---
+
+## Microscopic Anatomy of Skeletal Muscle
+
+Skeletal muscle fibers are composed of myofibrils, which are further divided into repeating units called sarcomeres—the functional units of muscle contraction. Each sarcomere consists of thick filaments composed primarily of myosin and thin filaments composed of actin, along with regulatory proteins troponin and tropomyosin. The precise arrangement of these filaments produces the characteristic striated appearance of skeletal muscle and allows for efficient force generation (Lieber, 2010).
+
+---
+
+## Excitation–Contraction Coupling
+
+Excitation–contraction coupling refers to the series of events that link an electrical signal from a motor neuron to muscle fiber contraction. This process begins at the neuromuscular junction, where the neurotransmitter acetylcholine (ACh) is released and binds to receptors on the muscle fiber’s sarcolemma. This binding generates an action potential that travels along the sarcolemma and down the transverse (T) tubules.
+
+The action potential triggers the release of calcium ions (Ca²⁺) from the sarcoplasmic reticulum into the cytosol. Calcium binds to the protein troponin, causing tropomyosin to shift and expose myosin‑binding sites on actin filaments. This calcium‑dependent mechanism is essential for initiating contraction (Hall & Guyton, 2021).
+
+---
+
+## The Sliding Filament Theory
+
+The sliding filament theory explains how muscle fibers shorten during contraction. According to this model, myosin heads attach to exposed binding sites on actin to form cross‑bridges. Using energy from adenosine triphosphate (ATP), the myosin heads pivot, pulling the actin filaments toward the center of the sarcomere in a power stroke. ATP binding then causes the myosin heads to detach, allowing the cycle to repeat as long as calcium and ATP are available.
+
+As sarcomeres shorten, the muscle fiber contracts without the filaments themselves changing length. This model, originally proposed by Huxley and Hanson, remains the foundational explanation for muscle contraction (Huxley, 1957).
+
+---
+
+## Regulation of Muscle Contraction
+
+Muscle force is regulated through motor unit recruitment and the frequency of neural stimulation. A motor unit consists of a motor neuron and all the muscle fibers it innervates. Increasing force production involves recruiting additional motor units and increasing the firing rate of action potentials, a process known as temporal summation.
+
+Muscle contraction is also influenced by muscle length, known as the length–tension relationship. Optimal overlap between actin and myosin filaments allows maximal force generation, whereas excessive stretching or shortening reduces contractile efficiency (Lieber & Fridén, 2019).
+
+---
+
+## Muscle Fatigue
+
+Muscle fatigue is the decline in the ability of a muscle to generate force during sustained activity. It can result from multiple factors, including ATP depletion, accumulation of metabolic byproducts such as lactic acid, and impaired calcium release from the sarcoplasmic reticulum. Fatigue serves as a protective mechanism to prevent muscle damage and maintain homeostasis within muscle tissue (Allen et al., 2008).
+
+---
+
+## Conclusion
+
+Muscle contraction is a complex, tightly regulated process that integrates anatomical structures, neural signaling, and molecular interactions. Through excitation–contraction coupling and the sliding filament mechanism, skeletal muscles convert chemical energy into mechanical force. Understanding these processes provides essential insight into normal movement, exercise physiology, and clinical conditions such as muscle weakness and neuromuscular disorders. Continued research into muscle physiology remains critical for advancing treatments and improving human health.
+
+---
+
+## References
+
+Allen, D. G., Lamb, G. D., & Westerblad, H. (2008). Skeletal muscle fatigue: Cellular mechanisms. *Physiological Reviews*, 88(1), 287–332.  
+https://doi.org/10.1152/physrev.00015.2007
+
+Hall, J. E., & Guyton, A. C. (2021). *Guyton and Hall Textbook of Medical Physiology* (14th ed.). Elsevier.  
+https://www.elsevier.com/books/guyton-and-hall-textbook-of-medical-physiology/9780323597128
+
+Huxley, A. F. (1957). Muscle structure and theories of contraction. *Progress in Biophysics and Biophysical Chemistry*, 7, 255–318.  
+https://doi.org/10.1016/S0096-4174(18)30128-8
+
+Lieber, R. L. (2010). *Skeletal Muscle Structure, Function, and Plasticity* (3rd ed.). Wolters Kluwer.  
+https://shop.lww.com/Skeletal-Muscle-Structure--Function--and-Plasticity/p/9780781780578
+
+Lieber, R. L., & Fridén, J. (2019). Functional and clinical significance of skeletal muscle architecture. *Muscle & Nerve*, 59(3), 318–336.  
+https://doi.org/10.1002/mus.26472
+
+OpenStax. (2023). *Anatomy and Physiology 2e*. OpenStax, Rice University.  
+https://openstax.org/details/books/anatomy-and-physiology-2e
+``
